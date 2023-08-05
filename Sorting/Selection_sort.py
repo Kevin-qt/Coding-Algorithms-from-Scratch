@@ -2,7 +2,7 @@ def selectionSort(arr: list[int]) -> list[int]:
     '''Sort an array in-place in ascending order'''
 
     def minElement(unsorted_arr: list[int]) -> int:
-        '''Find the minimun element in a given array and
+        '''Find the minimum element in a given array and
             return its index'''
         min_idx = 0
         min_element = unsorted_arr[0]
