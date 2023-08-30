@@ -1,2 +1,4 @@
 # test files
 test*
+# compiled files
+__pycache__
